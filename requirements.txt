@@ -1,0 +1,2 @@
+coloredlogs==14.0
+humanfriendly==8.2
