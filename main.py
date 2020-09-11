@@ -5,4 +5,4 @@ if __name__ == '__main__':
     client = MailCrawler()
     
     # do something
-    client.send(send_to='tasi788@gmail.com')
+    client.send(send_to='mail')
